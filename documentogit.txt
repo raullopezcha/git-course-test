@@ -28,3 +28,20 @@ git pull: te traes los ultimos cambios de varios desarrolladores.
 git clone: copia del servidor central una copia para que puedas trabajar localmente
  
 
+acceso directo:  git bash 
+
+configurar git:   git config --global user.email "raullopezcha@gmail.com"
+
+                  git config --global user.name "raul"
+
+
+  para salir --->   :wq (cuando has hecho commit y estas dentro de una ventana nueva)
+
+git log  -> te muestra informacion de los commit realizados
+
+git checkout -- documentogit.txt  (para descartar cambios)
+
+git diff  nombre del archivo    (para ver diferencias)
+
+
+
