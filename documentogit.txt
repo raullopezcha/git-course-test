@@ -1,0 +1,30 @@
+
+SNAPSHOT  - TOMANDO FOTOS Y VOLVER A REGRESAR
+
+comandos basicos =  interactua so
+
+es una consola de git = parecido a unix
+
+git tiene 3 estados:
+     working directory: donde vas a trabajar todos tus archivos apuntos de ...
+
+     staging area: vas a agrega o preparando tus archivos a ser guardados / listados de 
+
+     repository: guardandos los archivos.
+
+
+git init : iniciar a empezar crear proyecto o empezar a usar git
+
+git add  : vas pasar archivos working directory a staging area
+
+git status: que saber en estado se encuentran archivos : si estan working direct / stage area / eetc
+
+git commit: pasar de stage area  al repositorio (alli se crea un primer  snapshot) o primner version
+
+git push: pasar a un reposiotrio remoto cuando se comparten con otros programadores
+
+git pull: te traes los ultimos cambios de varios desarrolladores.
+
+git clone: copia del servidor central una copia para que puedas trabajar localmente
+ 
+
